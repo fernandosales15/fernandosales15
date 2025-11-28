@@ -1,6 +1,6 @@
 # Olá, eu sou o Fernando! 👋
 
-Sou um desenvolvedor em constante evolução.
+Sou um desenvolvedor em formação.
 
 Minha jornada começou com automação e web, e atualmente estou **transportando meus conhecimentos de JavaScript para o desenvolvimento nativo iOS com Swift**, unindo o melhor da lógica de scripts com a performance mobile.
 
