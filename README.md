@@ -39,7 +39,7 @@ Minha jornada começou com automação e web, e atualmente estou **transportando
 
 ### 📫 Vamos conectar?
 <div align="center">
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-sales-/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
